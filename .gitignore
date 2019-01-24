@@ -7,3 +7,4 @@ doc/*.[1-8]
 doc/*.html
 *.zwc
 *~
+*.swp
